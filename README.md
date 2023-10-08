@@ -1,3 +1,3 @@
-# CSC195_A5
+# CSC193_A5
 
-https://rickramen.github.io/CSC195_A5/
+https://rickramen.github.io/CSC193_A5/
